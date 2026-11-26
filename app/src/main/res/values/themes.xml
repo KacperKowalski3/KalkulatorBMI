@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.KalkulatorBMI" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#155FC7</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#E0EDFF</item>
+        <item name="colorOnPrimaryContainer">#10233D</item>
+    </style>
+
+    <style name="Theme.KalkulatorBMI" parent="Base.Theme.KalkulatorBMI" />
+</resources>
